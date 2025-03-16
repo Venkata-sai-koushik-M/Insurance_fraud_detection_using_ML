@@ -1,0 +1,11 @@
+PolicyHolder,ClaimAmount,ClaimType,Fraudulent
+John Doe,5000,Health,0
+Jane Smith,12000,Auto,1
+Alice Brown,7000,Home,0
+Bob White,15000,Auto,1
+Eve Black,9000,Health,0
+Charlie Green,20000,Home,1
+David Gray,3000,Auto,0
+Frank Orange,25000,Health,1
+Grace Blue,11000,Home,0
+Hank Yellow,8000,Auto,1
