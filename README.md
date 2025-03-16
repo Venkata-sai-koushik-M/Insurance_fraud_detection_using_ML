@@ -28,3 +28,14 @@ The following models are used:
 - Decision Tree
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
+
+## 📌 Contribution  
+Feel free to contribute by submitting a pull request.  
+
+## 📜 License  
+MIT License  
+
+## Authors
+1-[M.Venkata sai koushik][https://github.com/Venkata-sai-koushik-M?tab=repositories]
+
+2-[R.L.Sriyutha][https://github.com/Sriyutha-R-L]
